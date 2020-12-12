@@ -25,7 +25,7 @@ SECRET_KEY = 'j^(zd^@ahk4_+5py2sgbwn_#u705yok&s^+5nlc&dzvnyx3!lt'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['pipeline-env.eba-y4hutk3v.us-east-1.elasticbeanstalk.com']
 
 
 # Application definition
